@@ -1,6 +1,6 @@
-# animated_bottom_navigation_app
+# flutter_login_page_app
 
-Flutter 2 Android, Web & iOS Animated Splash Screen App from Coding Cafe
+Flutter 2 Android, Web & iOS Login Screen App from Coding Cafe
 
 ## Join Complete Course Here
 
